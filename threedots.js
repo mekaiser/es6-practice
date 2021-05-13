@@ -1,5 +1,5 @@
     // *** use of spread operator ***
-    // *** spread operator এর কাজ হলো এটা যার উপরে apply করা হবে তার সবকিছু নিয়ে ছড়ায় দিবে *** 
+    // *** spread operator spreads out everything that will be applied to it*** 
 const ages = [12, 14, 16, 13, 17];
 const ages2 = [15, 16, 12];
 const ages3 = [25, 36, 22, 29];

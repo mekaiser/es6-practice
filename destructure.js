@@ -26,7 +26,7 @@ console.log(leader);
 
 const friends = ['Sakib Khan', 'Arman Khan', 'Salman Khan', 'Shahrukh Khan', 'Aluk Khan'];
 
-const [chotoFriend, nextFriend, ...restFriends] = friends; // এটা friends array এর যথাক্রমে ১ম ও ২য় element টাকে নিয়ে নিবে এবং restFriends variable বাকি যে elements গুলো আছে array তে সেগুলোকে নিইয়ে নিবে
+const [chotoFriend, nextFriend, ...restFriends] = friends; // It will take the 1st and 2nd elements of the friends array respectively and the restFriends variable will take the rest of the elements in the array.
 
 console.log(chotoFriend, nextFriend);
 console.log(restFriends);
