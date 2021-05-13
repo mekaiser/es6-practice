@@ -9,8 +9,9 @@ const multiLine2 = `I love you
 I miss you 
 no, I don't need you
 Baily road e dorkar nai.`;
-// console.log(fullName);
-// console.log(fullName2);
-// console.log(fullName3);
-// console.log(multiLine);
+
+console.log(fullName);
+console.log(fullName2);
+console.log(fullName3);
+console.log(multiLine);
 console.log(multiLine2);

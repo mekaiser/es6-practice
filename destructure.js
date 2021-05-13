@@ -13,12 +13,12 @@ const complexObject = {
 
 const {leader} = complexObject.info;
 
-// const gfName = person.gfName;
-// const phone = person.phone;
+const gfName = person.gfName;
+const phone = person.phone;
 
-// console.log(gfName);
-// console.log(gfName);
-// console.log(gfName, phone);
+console.log(gfName);
+console.log(gfName);
+console.log(gfName, phone);
 
 console.log(leader);
 
